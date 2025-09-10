@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HW">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HW/AgeComparator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HW/Booleans.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
